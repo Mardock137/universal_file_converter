@@ -1,0 +1,9 @@
+# Ambiente virtuale Python
+.venv/
+
+# Cartelle di supporto e riferimento
+dev_support/
+
+# Cartelle con file temporanei
+.pytest_cache/
+__pycache__/
